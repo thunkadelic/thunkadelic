@@ -2,4 +2,4 @@
 - 👀 I’m interested in GRUB2 and BLS, and book and bookmark cataloging systems.
 - 🌱 I’m currently learning to work with GRUB2 and BLS, and GraphicsMagick.
 - 💞️ I’m looking to collaborate on getting GRUB2 and BLS to work better with icons for different Linux distributions and other OS.
-- 📫 still working on that email thing....
+- 📫 Email me at: thunker@protonmail.com
